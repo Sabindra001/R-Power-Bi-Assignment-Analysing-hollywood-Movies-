@@ -16,16 +16,7 @@ This project involves a comprehensive analysis of Hollywood movies using R for d
 The dataset includes information on movies released over the past decades, encompassing details like title, release year, genre, budget, revenue, and ratings. 
 
 ## Prerequisites
-
-- R (version x.x.x or later)
 - Power BI
-- Any R IDE (e.g., RStudio)
+-  RStudio
 - packages used in R, such as `dplyr`, `ggplot2`, etc.
-
-## Installation
-
-Provide steps on how to install R, Power BI, and any other necessary tools or dependencies for project.
-
-# Example of running an R script
-Rscript analysis_script.R
 
